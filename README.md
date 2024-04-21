@@ -26,8 +26,6 @@ $ git clone https://github.com/KING-localhost/INSTAPREM.git
 
 $ cd INSTAPREM
 
-$ pip install -r requirements.txt
-
 $ python ihack.py
 
 # CONTACT
